@@ -21,8 +21,8 @@ Analysis of the data set with comparing different columns with each other, using
 - > Naming the new dataFrame
 - > Finding the number of rows and columns
 - > Descriptive Statistics of the dataset
-- > Finding the data types and missing values <br> <br>
-
+- > Finding the data types and missing values <br>
+  > <br> <br>
 - > Visualizing the dataset using different plots
 - > The top 5 selling car models in the dataset
 - > The average selling price of the top 5 selling car models
