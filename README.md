@@ -23,7 +23,7 @@ Analysis of the data set with comparing different columns with each other, using
 - > Descriptive Statistics of the dataset
 - > Finding the data types and missing values
 
-#### Visualizing...
+#### _Visualizing..._
 
 - > Visualizing the dataset using different plots
 - > The top 5 selling car models in the dataset
