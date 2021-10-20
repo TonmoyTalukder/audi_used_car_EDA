@@ -32,9 +32,12 @@ Analysis of the data set with comparing different columns with each other, using
 
 - > Data Set Aggregation and exploratory data analysis based on model, transmission and fuel type of the audi cars
 
-**Data Visualization:** In this project, the dataset has been visualized to observation, using bar plot, scatter plot, histogram plot, distribution plot, ECDF, violin plot and box plot.
+> ### **Data Visualization:** 
+> In this project, the dataset has been visualized to observation, using bar plot, scatter plot, histogram plot, distribution plot, ECDF, violin plot and box plot.
+</br>
 
-**Machine Learning Model:** I have applied One-hot Encoding, Linear Regression and Predicted the model training results. I have compared the actual and predicted target variable through visualization later also for an easy understanding.
+> ### **Machine Learning Model:** 
+> I have applied One-hot Encoding, Linear Regression and Predicted the model training results. I have compared the actual and predicted target variable through visualization later also for an easy understanding.
 
 ## Dataset Referance:
 
